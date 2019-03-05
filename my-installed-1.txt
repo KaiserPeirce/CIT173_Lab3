@@ -1,0 +1,4 @@
+Listing...
+python3-minimal/bionic-updates,now 3.6.7-1~18.04 amd64 [installed]
+python3-minimal/bionic 3.6.5-3 amd64
+
